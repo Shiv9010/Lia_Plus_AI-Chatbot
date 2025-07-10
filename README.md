@@ -31,18 +31,18 @@ ________________________________________
 ________________________________________
 If the  user says Yes:
 7.	 Bot:
-Hostel: 24/7 electricity & water, CCTV security, on-site warden
+Hostel: 24/7 electricity & water, CCTV security, on-site warden availability
 Training: real patient interaction and clinical practice included
 ________________________________________
 8.	 Bot:
-“Our college is in Delhi. Would you like to know about the location?”
+“Our college is located in Delhi. Would you like to know about the location?”
 ________________________________________
 If the  user says Yes:
 9.	 Bot:
 “It’s in a well-connected area, with easy access to hospitals and public transport.”
 ________________________________________
 10.	 Bot:
-“The course is recognized by the Indian Nursing Council (INC). Want to know why that matters?”
+“This course is recognized by the Indian Nursing Council (INC). Want to know why that matters?”
 ________________________________________
 If the  user says Yes:
 11.	 Bot:
@@ -69,7 +69,13 @@ If the  user says Yes:
 17.	 Bot:
 “You can fill out the application form, contact our admission team, and prepare for the PNT entrance exam.”
 ________________________________________
-If at any point the user says No:
+If at any given point the user says No:
 18.	 Bot:
 “Okay! If you need help in the future, feel free to ask. Thanks, and have a nice day!”
 ________________________________________
+
+
+
+ 
+Flow Diagram                                                           Yes 
+                                                                                    No
